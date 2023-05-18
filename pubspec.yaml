@@ -43,6 +43,7 @@ dependencies:
   scrollable_positioned_list: ^0.3.5
   zoom_widget: ^2.0.1
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -50,6 +51,11 @@ dev_dependencies:
 
   flutter_lints: ^2.0.0
   flutter_launcher_icons: ^0.13.0
+  flutter_native_splash: ^2.0.19
+
+flutter_native_splash:
+    color: "#FFFFFF"
+
 flutter_icons:
   android: true
   ios: true
